@@ -9,7 +9,6 @@ The spirit of wanting to learn is the key to struggle wherever I am. Big assignm
 ### Contact Me
 - [Linkedin](https://www.linkedin.com/in/muhammad-rizal-muhaimin-4468431b2/)
 - [Instagram](https://instagram.com/muhammadrizal.muhaimin/)
-- [Email](https://myaccount.google.com/muhammadrizalm0109@gmail.com/)
 
 <!--
 **MrizalMuhaimin/MrizalMuhaimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
