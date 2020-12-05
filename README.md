@@ -6,6 +6,10 @@ Since I was young, I lived in a village and never imagined that I could fight in
 
 The spirit of wanting to learn is the key to struggle wherever I am. Big assignments and academic activities are experiences that always give an impression and learn in their own right. With my current status as a student, I have known or even more than just a few programming languages ​​such as Python, C, Prolog, Java. Besides learning at ITB, I have attended several classes at Dicoding and Coursera. Experience is a valuable thing and I want to always learn to get lessons from an experience.
 
+### Contact Me
+- [Linkedin]linkedin.com/in/muhammad-rizal-muhaimin-4468431b2/)
+- [Instagram](https://instagram.com/muhammadrizal.muhaimin/)
+
 <!--
 **MrizalMuhaimin/MrizalMuhaimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
