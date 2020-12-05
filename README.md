@@ -2,9 +2,10 @@
 
 My name is Muhammad Rizal Muhaimin.
 
-Since I was young, I lived in a village and never imagined that I could fight in the world of information like now. I am currently one of the ITB informatics engineering students in 2019. In the beginning, getting to know and studying in the programmer world can be said to be difficult, but there is always convenience when you are struggling. It is like being born in a new world and must learn just as a newborn child learns how to speak, stand and then be able to run and communicate. Enjoy the existing process by keeping on trying. Remember that every time you learn a new language, there is always the word "Hello World" as the first step in getting to know it.
 
-The spirit of wanting to learn is the key to struggle wherever I am. Big assignments and academic activities are experiences that always give an impression and learn in their own right. With my current status as a student, I have known or even more than just a few programming languages ​​such as Python, C, Prolog, Java. Besides learning at ITB, I have attended several classes at Dicoding and Coursera. Experience is a valuable thing and I want to always learn to get lessons from an experience.
+Since childhood I lived in a village and never imagined being able to fight in the information world like now. I am currently one of the ITB informatics engineering students in 2019. Initially knowing and studying in the programmer world can be said to be difficult, but there is always convenience when deciding to fight. It's like being born in a new world and having to learn like a newborn child learning how to talk, stand up and then be able to run and communicate. Enjoy the existing process by continuing to try. Remember that every time you learn a new language, there is always the word "Hello World" as a first step to understanding it.
+
+The spirit of wanting to learn is the key to the struggle wherever I am. Big assignments and academic activities are experiences that always make an impression and learn by themselves. With my current status as a student, I am familiar with or even more than familiar with several programming languages ​​such as Python, C, Prolog, Java. Apart from studying at ITB, I have participated in several classes at Dicoding and Coursera. Experience is a very valuable thing and I always want to learn to get lessons from an experience.
 
 ### Contact Me
 - [Linkedin](https://www.linkedin.com/in/muhammad-rizal-muhaimin-4468431b2/)
