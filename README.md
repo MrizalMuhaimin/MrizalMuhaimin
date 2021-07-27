@@ -7,6 +7,13 @@ Since childhood I lived in a village and never imagined being able to fight in t
 
 The spirit of wanting to learn is the key to the struggle wherever I am. Big assignments and academic activities are experiences that always make an impression and learn by themselves. With my current status as a student, I am familiar with or even more than familiar with several programming languages ​​such as Python, C, Prolog, Java. Apart from studying at ITB, I have participated in several classes at Dicoding and Coursera. Experience is a very valuable thing and I always want to learn to get lessons from an experience.
 
+<p align="left">
+<a href="https://github.com/MrizalMuhaimin">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrizalMuhaimin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrizalMuhaimin&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### Contact Me
 - [Linkedin](https://www.linkedin.com/in/muhammad-rizal-muhaimin-4468431b2/)
 - [Instagram](https://instagram.com/muhammadrizal.muhaimin/)
