@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-My name is Muhammad Rizal Muhaimin.
-
-
-Since childhood I lived in a village and never imagined being able to fight in the information world like now. I am currently one of the ITB informatics engineering students in 2019. Initially knowing and studying in the programmer world can be said to be difficult, but there is always convenience when deciding to fight. It's like being born in a new world and having to learn like a newborn child learning how to talk, stand up and then be able to run and communicate. Enjoy the existing process by continuing to try. Remember that every time you learn a new language, there is always the word "Hello World" as a first step to understanding it.
-
-The spirit of wanting to learn is the key to the struggle wherever I am. Big assignments and academic activities are experiences that always make an impression and learn by themselves. With my current status as a student, I am familiar with or even more than familiar with several programming languages ​​such as Python, C, Prolog, Java. Apart from studying at ITB, I have participated in several classes at Dicoding and Coursera. Experience is a very valuable thing and I always want to learn to get lessons from an experience.
+I'm a 3rd-year Informatics engineering student at Bandung Institute of Technology specializing in front-end development, android development, and interested in educational development. I am fairly experienced with all stages of the development cycle for dynamic web projects and android development, while also experienced in various programming languages such as HTML5, PHP OOP, JavaScript, CSS, Python, SQL/NoSQL, Java, and Kotlin. I would love to continuously learn more and make best practices.
 
 <p align="left">
 <a href="https://github.com/MrizalMuhaimin">
